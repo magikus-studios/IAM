@@ -1,0 +1,27 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e98c076bb333c047927b493def657c3, type: 3}
+  m_Name: Bullet Animation
+  m_EditorClassIdentifier: 
+  <Frames>k__BackingField:
+  - {fileID: 21300000, guid: dcba17c52ed299548bb38ee121b162b9, type: 3}
+  - {fileID: 21300000, guid: 8ca1530ba9ff2d448afc8882054d7e5e, type: 3}
+  - {fileID: 21300000, guid: c97828b88e71a0f49b8c685968e89aa4, type: 3}
+  - {fileID: 21300000, guid: 093176fed8af10d4b883651640a98e2e, type: 3}
+  - {fileID: 21300000, guid: ee6113275716e2d4fa8b8acad66028ac, type: 3}
+  - {fileID: 21300000, guid: ef3efbb490ad8d440b46f064892f7cdf, type: 3}
+  - {fileID: 21300000, guid: 3380d5dfcafaf194592ad9092947f5ab, type: 3}
+  <FrameRate>k__BackingField: 1
+  <IsLoop>k__BackingField: 1
+  <RandomOrder>k__BackingField: 0
+  <AvoidRepeatingLastSprite>k__BackingField: 0
+  <PlaybackDistortion>k__BackingField: 0

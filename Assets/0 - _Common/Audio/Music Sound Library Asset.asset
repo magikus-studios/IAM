@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ebf2e613547b4d8a19431dda00791, type: 3}
+  m_Name: Music Sound Library Asset
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  Library:
+  - Clip: {fileID: 8300000, guid: 5d2792f7169061643bdb3c722a468d86, type: 3}
+    Name: IAM
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 65a4bca3018d3de4682005fa9a20bf4d, type: 3}
+    Name: Snake
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 297efe50d14ca724f92be8657e34f40f, type: 3}
+    Name: Tetris
+    Volume: 0.5
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: effa41e734f7b7b4c80ca9e55d2bf721, type: 3}
+    Name: Pong
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 1cda71276a6fd3e41babc7d2ce8d223b, type: 3}
+    Name: Asteroids
+    Volume: 0.75
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: d16217ca00fb5dd47af067f2b59cd06a, type: 3}
+    Name: Breakout
+    Volume: 0.25
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0

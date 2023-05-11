@@ -1,0 +1,80 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ebf2e613547b4d8a19431dda00791, type: 3}
+  m_Name: Asteroids - Sound Library Asset
+  m_EditorClassIdentifier: 
+  Volume: 1
+  Pitch: 1
+  Library:
+  - Clip: {fileID: 8300000, guid: 5f61de3bf229ba84fae4faa18b22e240, type: 3}
+    Name: Shoot
+    Volume: 0.3
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: c6fa49778451953418cf13a726dd3fda, type: 3}
+    Name: Spawn
+    Volume: 0.5
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 6300f8adbf70b044db384ab70c01d70e, type: 3}
+    Name: Crash
+    Volume: 0.5
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 7cc6f607f501e6c498a50a5fc5bcf756, type: 3}
+    Name: Asteroid Spawn
+    Volume: 0.5
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 3c8b94b2503ec30418d98af8effc1b49, type: 3}
+    Name: Impact
+    Volume: 0.25
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: a966d39c171d73a4c946131a76c388f8, type: 3}
+    Name: Destroy
+    Volume: 0.25
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 4659c9401a7281543939d30ba4b42b48, type: 3}
+    Name: Rotate
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 3f1aeb6df062bb44084b73ec3a57bfcc, type: 3}
+    Name: Thrust
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 611b3ed427fe4b64aaf9f7c995cb8bfd, type: 3}
+    Name: Lose
+    Volume: 0.5
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 0
+    SkipNextStop: 0

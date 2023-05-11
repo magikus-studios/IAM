@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ebf2e613547b4d8a19431dda00791, type: 3}
+  m_Name: Tetris - SFX Sound Library Asset
+  m_EditorClassIdentifier: 
+  Library:
+  - Clip: {fileID: 8300000, guid: 61cdf915904407040857994416058138, type: 3}
+    Name: Invalid
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 1d035b4c0f8cb214fbcb30e5fdcb257e, type: 3}
+    Name: Gameover
+    Volume: 0.2
+    Pitch: 0.8
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: f64c27e177a379d4c9a5b0bf74624249, type: 3}
+    Name: Clear
+    Volume: 0.2
+    Pitch: 0.8
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 8d4466689397e8043b6b0d65f5d04de1, type: 3}
+    Name: Move
+    Volume: 1
+    Pitch: 0.5
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: bc00a0485040e9648a53e671b384714b, type: 3}
+    Name: Rotate
+    Volume: 1
+    Pitch: 0.5
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 3cfb243e4c0f9cc48b6d48f7353bff1e, type: 3}
+    Name: Lock
+    Volume: 1
+    Pitch: 1.5
+    Loop: 0

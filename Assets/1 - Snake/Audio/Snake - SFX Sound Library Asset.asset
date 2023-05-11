@@ -1,0 +1,30 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ebf2e613547b4d8a19431dda00791, type: 3}
+  m_Name: Snake - SFX Sound Library Asset
+  m_EditorClassIdentifier: 
+  Library:
+  - Clip: {fileID: 8300000, guid: 61cdf915904407040857994416058138, type: 3}
+    Name: Die
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 1d035b4c0f8cb214fbcb30e5fdcb257e, type: 3}
+    Name: Game Over
+    Volume: 0.2
+    Pitch: 0.8
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: f64c27e177a379d4c9a5b0bf74624249, type: 3}
+    Name: Score
+    Volume: 0.2
+    Pitch: 0.8
+    Loop: 0

@@ -1,0 +1,35 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 4e98c076bb333c047927b493def657c3, type: 3}
+  m_Name: Paddle Hit Animation
+  m_EditorClassIdentifier: 
+  <Frames>k__BackingField:
+  - {fileID: 599519409, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 1826857386, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: -936407259, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 1434230048, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: -502249328, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: -1986125657, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 444037290, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 1506127891, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 444037290, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: -1986125657, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: -502249328, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 1434230048, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: -936407259, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 1826857386, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  - {fileID: 599519409, guid: 7a172a55b28150c4ab7bdb0b9a623a2b, type: 3}
+  <FrameRate>k__BackingField: 0.01
+  <IsLoop>k__BackingField: 0
+  <RandomOrder>k__BackingField: 0
+  <AvoidRepeatingLastSprite>k__BackingField: 0
+  <PlaybackDistortion>k__BackingField: 0

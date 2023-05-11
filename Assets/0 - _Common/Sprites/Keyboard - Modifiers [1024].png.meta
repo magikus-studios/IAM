@@ -1,0 +1,2919 @@
+fileFormatVersion: 2
+guid: dab52ff1c1a957448aed51f2115f8ed7
+TextureImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 12
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMasterTextureLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 1024
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Server
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Android
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f64ef49a2f86594aa50018965416f54
+      internalID: 1873968532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_1
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cacc2f3cc617f24ca326a57c123a6ca
+      internalID: 688338146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ef4d2bb74bc12c4a90dc6fd6d43e1f7
+      internalID: -1381228431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_3
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f40dc3f6622b40b4e811da8961b71342
+      internalID: 689717557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_4
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79adadf94650733408324360add1e2f9
+      internalID: 694324605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_5
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa706af0d41c7ce4db3acb36d43c42a3
+      internalID: 1605452747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_6
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe06e6e825af873429ba81572d6ca864
+      internalID: -525836239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_7
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56420062be1635a4aaecd8d4776e63c0
+      internalID: -1686058945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_8
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7d037c702db5408e4bd1e78608d87
+      internalID: -1668482363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_9
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e07c70ef10ae64d4bbb9a6871944670e
+      internalID: -705351903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_10
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d8f2f6ec6bf1514f8cc7473ea3e88a0
+      internalID: 613426864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_11
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d3777c66eb26414ea624fb76852edc8
+      internalID: -941277657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_12
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c4f9db48eaef6442b5cff2268834730
+      internalID: -341702903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_13
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dee6a89cdec4ed41b4b21247d44a9a0
+      internalID: 684165009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_14
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b242ae0db81ed4dad6f3214e9ecd2a
+      internalID: 83300065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_15
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 962
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad699cd021d7c784fa0a3a38e4b23a18
+      internalID: -1950798035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_16
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fdcc1795abcdc04fb73301c572e24f9
+      internalID: 2123150340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_17
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7d877dcb00247946a3bd2ed2f2ec27d
+      internalID: 1396888686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_18
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 953b985f5475d634b8210d4cf6e53569
+      internalID: -2059939936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_19
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0c8f0b2f0dd8a549aa123103b93be15
+      internalID: -885543998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_20
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 85a1cacd9c6db0c49bb9ed0bfd7bf981
+      internalID: -1123756245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_21
+      rect:
+        serializedVersion: 2
+        x: 322
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c0300a680f53ef046911f648540613b3
+      internalID: 449475751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68fff8815ff98454a8acaac51487f834
+      internalID: 211728816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_23
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 819c3fba9fc4bd84d913fb5ecd6a4e4e
+      internalID: 1814461516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_24
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 016331e6993668f4fb8a69be8d4db55b
+      internalID: 436604122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_25
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4155e99b568c0147bb0c739c93ab6c0
+      internalID: -1716174581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_26
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c46640e9b1d56848888ea6307fc3f57
+      internalID: 551387553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_27
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6ac071e163d7394fa1cba73377f04a3
+      internalID: 1927566978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_28
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7278e6d63cb2eb344bd9f877d16b9719
+      internalID: 2067376097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_29
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 895fc8512c03f804daa0c5c79e47aabc
+      internalID: 1069414778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_30
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 90f47e6bbfaea784896856c154ae848a
+      internalID: -2042331629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_31
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 898
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6698a1d35dbd21d42993b0d44b167a5d
+      internalID: 1825239549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 834
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e438395f921bdc54bbec38234d54985a
+      internalID: 2021018524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_33
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 834
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f7fcc5b966d0783459820c20c9664522
+      internalID: -1459994840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_34
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 834
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52c1e88d77a2e294b937988827a9fc63
+      internalID: -2131626445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_35
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 834
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfec6735d61639546afc02287aec0173
+      internalID: 1074717864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_36
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 834
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6fae74cd0232824c98271f08b3c02cd
+      internalID: -1872511210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_37
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 834
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: caf13ef54beada94a885d19220c6f31f
+      internalID: 87748984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_38
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 834
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a89c132e3c51a44d84559e81ee83bc5
+      internalID: 484711379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_39
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 834
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd615077c805108458ada9e85af13beb
+      internalID: -745717948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_40
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 834
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3279cadc70d29845b83ebbc6e3642f9
+      internalID: -700050984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_41
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd3e225cd0dae7644aa1a43ee27d4754
+      internalID: -1198088872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_42
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2188ae01aadfdfc4499c43605a268aba
+      internalID: 398305889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_43
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 703754542a8d4c648a96f78078ca5f9f
+      internalID: 2071815598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_44
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccdbd96c1dc4e8e488a5554aa858c52a
+      internalID: -854445657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_45
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ceb847c595bc1346a0fae46afa9918f
+      internalID: 835898048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_46
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce79b653cace82f489952c6fb95909b7
+      internalID: -1711955341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_47
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a7a59a95f021004c81d1f7d4531f5a0
+      internalID: 1560421219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_48
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 770
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 817a750faf771254a9096f4698015140
+      internalID: 1639952073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_49
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa365d9828eaa0748aa58cb126c91034
+      internalID: 565446410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_50
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1d68d78261bf26945a42a5428c526907
+      internalID: 497042538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_51
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07ac8ae331a21d24e9538fbea9d45c53
+      internalID: -1914208353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_52
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb4e7fbff6685c34aac3ce88919bfd3c
+      internalID: 1292250199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_53
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21564039b0ef14249a7b5b6cf09df16d
+      internalID: -912183429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_54
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258aa73b1353c2745b701a478fbf6f31
+      internalID: -1472842854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_55
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4acf131e705d5bb4b8e11d167929099e
+      internalID: -1506306917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_56
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 706
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e8e0d9a5f9bf9f489dc37fa2607bfe1
+      internalID: -760100841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_57
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3fcd00ff8fb7e7f469fcd3f910f86f75
+      internalID: -1771374992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_58
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41a10bfbe46d5bc4b9ac3fbc78548940
+      internalID: -877739902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_59
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e4588054657665d4d9f22c4612f733c9
+      internalID: -697696968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_60
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0acbdd6b669e484c965f779dac8f5db
+      internalID: 804318488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_61
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8968f9e276f5ef344b63dbb561f4949f
+      internalID: -1408248915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_62
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91414ac1f37b809498f0a7dc271a314c
+      internalID: -868379891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_63
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea6c3d64110c8324fbc9e4b21d2ac78c
+      internalID: -66643963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_64
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 642
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16efd5f5c52b76c45afa016f10e5311f
+      internalID: -104775559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_65
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f352afefe9f03949a11ccd3e902dd4f
+      internalID: -181367942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_66
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 973d5172ea4d25a49bb7ac4f04fbd6f0
+      internalID: -1322880642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_67
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e598617ebc7401745a280fab20827429
+      internalID: -893499362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_68
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416b7e8e2eafaaa40a85e91f50dfb081
+      internalID: -1923871309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_69
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 159d5a5f9be711449a01312bd0efaaed
+      internalID: 1682065108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_70
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a25e785677aee2c44b6edd3f294d4bf9
+      internalID: -176844493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_71
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 964595f7f5acbfd4fb7198fb90bb7485
+      internalID: -1341694704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_72
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 578
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e53f51712bf2f4447a7a65f374d3e2a6
+      internalID: 1176895904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_73
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd5a4fe6cdbe9e241802bd3374d957fe
+      internalID: -1401133849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_74
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ca78a2030191cf43b5fb7d517937928
+      internalID: -1020875101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_75
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce9840248385b5e4ca9e4e3590e7830b
+      internalID: -806662543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_76
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0b34a7fbbca5d1b46905bde2fa0ea7e7
+      internalID: -428003846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_77
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c627a7484532c4c4a8d2b2fd592f8e1d
+      internalID: 315111439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_78
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f37e3a78e6bc2840b8169453db0aeec
+      internalID: -1906109997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_79
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 514
+        width: 124
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 609f2150056b78243b5826e9088002bf
+      internalID: 156357041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_80
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 450
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3713160058223364fbb52291306825f4
+      internalID: 819550098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_81
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 450
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd4f77abd0a820f41a79128ba0ebb53b
+      internalID: -182286139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_82
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 450
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0500c68cb35378e4ea23299777d66a53
+      internalID: -1853657094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_83
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 450
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a608af1457815642af1254c4f8d2f6b
+      internalID: 614716079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_84
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 450
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93ebcfc620ce80447942309b8cbc9838
+      internalID: 981223156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_85
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 450
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec347569c8e2fe641a5c7a5560b98b25
+      internalID: -2016483215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_86
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 386
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df1560f87e4328a40a27ccea2c7c2568
+      internalID: -1462959732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_87
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 386
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb743a9c38b35a942b90881fb4a70b82
+      internalID: 789920636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_88
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 386
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d8dd448f6104deb4fbb0c362148feeca
+      internalID: 1475077469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_89
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 386
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774c4ccc21a759c479852afef0369905
+      internalID: 961372069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_90
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 386
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 53409c0adbd149b45b034eaf26757680
+      internalID: -988137097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_91
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 386
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 43789e29c64df924bb99efeba73cc51c
+      internalID: -356642675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_92
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 322
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e188ce56b6111544586ab16a8cddf7f9
+      internalID: 370987860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_93
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 322
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb25b3db814449e48951ab6d4beae87e
+      internalID: -392315502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_94
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 322
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83d392f36a3dbf04aa2a92da1dd013c1
+      internalID: 1905739917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_95
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 322
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9984b6ffe48ccc54fb3b17a69119ab60
+      internalID: 935044329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_96
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 322
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 735580024c86fa24bb89162e9e6b8975
+      internalID: -1181040655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_97
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 322
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26114944263cabb468e5c654c6d86dc3
+      internalID: 351872330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_98
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 258
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fc8dcc84e951d65418c5ac952492d2e6
+      internalID: 486997722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_99
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 258
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f04de4e7378db9d44941c445c69a0b80
+      internalID: 2076781560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_100
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 258
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7995c495c69146642966705917642835
+      internalID: 463769604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_101
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 258
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 689205387f5c5e54bb89cf7f457e8874
+      internalID: -1336461806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_102
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 258
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c94296203824674e978a3fdc5c3bc42
+      internalID: -679369724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_103
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 258
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1957059697cbc4540b82f6500f561a20
+      internalID: 1990762852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_104
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 194
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287fd4e133b31e342946da3712620f33
+      internalID: 1649384570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_105
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 194
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d408138fa189eab4cb055cc18f4518a8
+      internalID: -184616553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_106
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 194
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c2058c1dc54d134aba5baa6f3daf8f4
+      internalID: 421341703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_107
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 194
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bebc2ccbe4071a448afcffd7d6fd57bf
+      internalID: -431101908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_108
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 194
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b4c6cd6ee11eb4cae794eafdc78556
+      internalID: 661758754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_109
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 194
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f0d7a29554f27a4787a418903ebb460
+      internalID: 299016059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 130
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 553aaa2e5e0bd204989f1ead77149131
+      internalID: -843987522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_111
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 130
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20329cfabf8b58141a7ae7f1f1f0ac89
+      internalID: 1769475523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_112
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 130
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1cbcdb8667ecbd4aa66bcdf6a07b634
+      internalID: -82275410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_113
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 130
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f71afa7f151bcf46b4e5d13c90d628b
+      internalID: 756391785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_114
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 130
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1848917f978f8014aadd300e4f444a47
+      internalID: 363376130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_115
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 130
+        width: 60
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9460763f24753384db750d0068d19914
+      internalID: 764257080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_116
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 66
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2ffc8a5662821245861115a61921e0f
+      internalID: -1374622531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_117
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 66
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8b566933e3ffbe44b217de396027746
+      internalID: 1851410497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_118
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 66
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b3531aab0687649bc81f22f9e001d0
+      internalID: 2030431551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_119
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 66
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07f3771af7888a54abb9959854c52655
+      internalID: -979839840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_120
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 66
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8f88881daf39994fbf78b052aaed7a9
+      internalID: -1799917448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_121
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a5c018d8fa8244abe0ae6b872ec377
+      internalID: -1125547050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_122
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 2
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551c6fee57cc31846b8fe03231c97240
+      internalID: 118772841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_123
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 2
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9a7663b345d3b0448a02b6fb45987be
+      internalID: 2033816586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_124
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 2
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e8765d175b7274e8b0444edf20c864
+      internalID: 242254261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Keyboard - Modifiers [1024]_125
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 2
+        width: 188
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a5b77ed3ca5bd64b846a5585b650179
+      internalID: 62158691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    nameFileIdTable:
+      Keyboard - Modifiers [1024]_121: -1125547050
+      Keyboard - Modifiers [1024]_6: -525836239
+      Keyboard - Modifiers [1024]_12: -341702903
+      Keyboard - Modifiers [1024]_22: 211728816
+      Keyboard - Modifiers [1024]_39: -745717948
+      Keyboard - Modifiers [1024]_46: -1711955341
+      Keyboard - Modifiers [1024]_32: 2021018524
+      Keyboard - Modifiers [1024]_122: 118772841
+      Keyboard - Modifiers [1024]_4: 694324605
+      Keyboard - Modifiers [1024]_5: 1605452747
+      Keyboard - Modifiers [1024]_74: -1020875101
+      Keyboard - Modifiers [1024]_31: 1825239549
+      Keyboard - Modifiers [1024]_91: -356642675
+      Keyboard - Modifiers [1024]_8: -1668482363
+      Keyboard - Modifiers [1024]_27: 1927566978
+      Keyboard - Modifiers [1024]_64: -104775559
+      Keyboard - Modifiers [1024]_112: -82275410
+      Keyboard - Modifiers [1024]_20: -1123756245
+      Keyboard - Modifiers [1024]_123: 2033816586
+      Keyboard - Modifiers [1024]_0: 1873968532
+      Keyboard - Modifiers [1024]_7: -1686058945
+      Keyboard - Modifiers [1024]_26: 551387553
+      Keyboard - Modifiers [1024]_42: 398305889
+      Keyboard - Modifiers [1024]_30: -2042331629
+      Keyboard - Modifiers [1024]_1: 688338146
+      Keyboard - Modifiers [1024]_124: 242254261
+      Keyboard - Modifiers [1024]_113: 756391785
+      Keyboard - Modifiers [1024]_58: -877739902
+      Keyboard - Modifiers [1024]_28: 2067376097
+      Keyboard - Modifiers [1024]_3: 689717557
+      Keyboard - Modifiers [1024]_117: 1851410497
+      Keyboard - Modifiers [1024]_14: 83300065
+      Keyboard - Modifiers [1024]_53: -912183429
+      Keyboard - Modifiers [1024]_18: -2059939936
+      Keyboard - Modifiers [1024]_125: 62158691
+      Keyboard - Modifiers [1024]_17: 1396888686
+      Keyboard - Modifiers [1024]_13: 684165009
+      Keyboard - Modifiers [1024]_66: -1322880642
+      Keyboard - Modifiers [1024]_68: -1923871309
+      Keyboard - Modifiers [1024]_47: 1560421219
+      Keyboard - Modifiers [1024]_54: -1472842854
+      Keyboard - Modifiers [1024]_25: -1716174581
+      Keyboard - Modifiers [1024]_63: -66643963
+      Keyboard - Modifiers [1024]_49: 565446410
+      Keyboard - Modifiers [1024]_15: -1950798035
+      Keyboard - Modifiers [1024]_86: -1462959732
+      Keyboard - Modifiers [1024]_16: 2123150340
+      Keyboard - Modifiers [1024]_119: -979839840
+      Keyboard - Modifiers [1024]_118: 2030431551
+      Keyboard - Modifiers [1024]_21: 449475751
+      Keyboard - Modifiers [1024]_109: 299016059
+      Keyboard - Modifiers [1024]_35: 1074717864
+      Keyboard - Modifiers [1024]_75: -806662543
+      Keyboard - Modifiers [1024]_51: -1914208353
+      Keyboard - Modifiers [1024]_61: -1408248915
+      Keyboard - Modifiers [1024]_52: 1292250199
+      Keyboard - Modifiers [1024]_19: -885543998
+      Keyboard - Modifiers [1024]_40: -700050984
+      Keyboard - Modifiers [1024]_81: -182286139
+      Keyboard - Modifiers [1024]_114: 363376130
+      Keyboard - Modifiers [1024]_111: 1769475523
+      Keyboard - Modifiers [1024]_116: -1374622531
+      Keyboard - Modifiers [1024]_78: -1906109997
+      Keyboard - Modifiers [1024]_108: 661758754
+      Keyboard - Modifiers [1024]_71: -1341694704
+      Keyboard - Modifiers [1024]_70: -176844493
+      Keyboard - Modifiers [1024]_99: 2076781560
+      Keyboard - Modifiers [1024]_56: -760100841
+      Keyboard - Modifiers [1024]_45: 835898048
+      Keyboard - Modifiers [1024]_41: -1198088872
+      Keyboard - Modifiers [1024]_44: -854445657
+      Keyboard - Modifiers [1024]_33: -1459994840
+      Keyboard - Modifiers [1024]_34: -2131626445
+      Keyboard - Modifiers [1024]_79: 156357041
+      Keyboard - Modifiers [1024]_87: 789920636
+      Keyboard - Modifiers [1024]_2: -1381228431
+      Keyboard - Modifiers [1024]_92: 370987860
+      Keyboard - Modifiers [1024]_23: 1814461516
+      Keyboard - Modifiers [1024]_50: 497042538
+      Keyboard - Modifiers [1024]_69: 1682065108
+      Keyboard - Modifiers [1024]_90: -988137097
+      Keyboard - Modifiers [1024]_60: 804318488
+      Keyboard - Modifiers [1024]_110: -843987522
+      Keyboard - Modifiers [1024]_10: 613426864
+      Keyboard - Modifiers [1024]_82: -1853657094
+      Keyboard - Modifiers [1024]_62: -868379891
+      Keyboard - Modifiers [1024]_24: 436604122
+      Keyboard - Modifiers [1024]_57: -1771374992
+      Keyboard - Modifiers [1024]_105: -184616553
+      Keyboard - Modifiers [1024]_43: 2071815598
+      Keyboard - Modifiers [1024]_77: 315111439
+      Keyboard - Modifiers [1024]_96: -1181040655
+      Keyboard - Modifiers [1024]_101: -1336461806
+      Keyboard - Modifiers [1024]_29: 1069414778
+      Keyboard - Modifiers [1024]_55: -1506306917
+      Keyboard - Modifiers [1024]_93: -392315502
+      Keyboard - Modifiers [1024]_38: 484711379
+      Keyboard - Modifiers [1024]_48: 1639952073
+      Keyboard - Modifiers [1024]_95: 935044329
+      Keyboard - Modifiers [1024]_102: -679369724
+      Keyboard - Modifiers [1024]_83: 614716079
+      Keyboard - Modifiers [1024]_76: -428003846
+      Keyboard - Modifiers [1024]_97: 351872330
+      Keyboard - Modifiers [1024]_11: -941277657
+      Keyboard - Modifiers [1024]_65: -181367942
+      Keyboard - Modifiers [1024]_80: 819550098
+      Keyboard - Modifiers [1024]_100: 463769604
+      Keyboard - Modifiers [1024]_67: -893499362
+      Keyboard - Modifiers [1024]_37: 87748984
+      Keyboard - Modifiers [1024]_103: 1990762852
+      Keyboard - Modifiers [1024]_104: 1649384570
+      Keyboard - Modifiers [1024]_72: 1176895904
+      Keyboard - Modifiers [1024]_73: -1401133849
+      Keyboard - Modifiers [1024]_106: 421341703
+      Keyboard - Modifiers [1024]_9: -705351903
+      Keyboard - Modifiers [1024]_107: -431101908
+      Keyboard - Modifiers [1024]_115: 764257080
+      Keyboard - Modifiers [1024]_36: -1872511210
+      Keyboard - Modifiers [1024]_84: 981223156
+      Keyboard - Modifiers [1024]_94: 1905739917
+      Keyboard - Modifiers [1024]_120: -1799917448
+      Keyboard - Modifiers [1024]_88: 1475077469
+      Keyboard - Modifiers [1024]_98: 486997722
+      Keyboard - Modifiers [1024]_59: -697696968
+      Keyboard - Modifiers [1024]_89: 961372069
+      Keyboard - Modifiers [1024]_85: -2016483215
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

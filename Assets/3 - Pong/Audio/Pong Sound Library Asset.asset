@@ -1,0 +1,55 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ebf2e613547b4d8a19431dda00791, type: 3}
+  m_Name: Pong Sound Library Asset
+  m_EditorClassIdentifier: 
+  Library:
+  - Clip: {fileID: 8300000, guid: c71619e063f6cb94ab6e44010fff35e9, type: 3}
+    Name: Crowd
+    Volume: 1
+    Pitch: 1
+    Loop: 1
+  - Clip: {fileID: 8300000, guid: 9e281ff723a076143a1b20d60607bfe3, type: 3}
+    Name: Score
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: f3dc8d76f8b048c498f6bb0724a05530, type: 3}
+    Name: Die
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: a4a452ad8272b854e879efaab4a1f0b7, type: 3}
+    Name: Spawn
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: b35751e648343bf40a51c65cc634a4d4, type: 3}
+    Name: Win
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 8704a40ae9aafb843bf8ade8916f8612, type: 3}
+    Name: Lose
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 305fc756bf815004da68cf7dac964161, type: 3}
+    Name: Kick
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+  - Clip: {fileID: 8300000, guid: 3bff1b56094696d4190de13412c94f8f, type: 3}
+    Name: Bounce
+    Volume: 1
+    Pitch: 1
+    Loop: 0

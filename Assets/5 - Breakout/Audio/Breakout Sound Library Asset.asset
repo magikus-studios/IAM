@@ -1,0 +1,94 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 0c0ebf2e613547b4d8a19431dda00791, type: 3}
+  m_Name: Breakout Sound Library Asset
+  m_EditorClassIdentifier: 
+  Volume: 2
+  Pitch: 1
+  Library:
+  - Clip: {fileID: 8300000, guid: 5bc30591bcb654144a45ed5991c075cc, type: 3}
+    Name: Wall
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 62a95a7c714859b45bf2911e9dd002ba, type: 3}
+    Name: Paddle
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 9f6a940f55aecce4f839162bc29e9d12, type: 3}
+    Name: Brick
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 89753347faf378a4fac36e85aee8413b, type: 3}
+    Name: UBrick
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 0d1ad42442cd14f4a91039c929755d16, type: 3}
+    Name: Break
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: bf00f6f7591f6974482371a55824f2f4, type: 3}
+    Name: Fast
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 81ac4054cd687664d972e65ca6f4adf0, type: 3}
+    Name: Slow
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 192640f5481e27a43a934a2cc541b080, type: 3}
+    Name: Regular
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: bbf3961c4bc08c449b6fa3e437c65305, type: 3}
+    Name: Die
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: 09b5a8827bea6ad4cbaf474a35261b44, type: 3}
+    Name: Gameover
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
+  - Clip: {fileID: 8300000, guid: a3abc51bf68ee8645a1e5c412ddbe51b, type: 3}
+    Name: Complete
+    Volume: 1
+    Pitch: 1
+    Loop: 0
+    CreateNewInstanceOnEachPlay: 1
+    SkipNextStop: 0
